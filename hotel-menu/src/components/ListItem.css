@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+body{
+    background: linear-gradient(90deg, #fe346e 30%, #f3f9fb 30%);
+}
+
+.box{
+    position: relative;
+    background-color:#ffffff ;
+    height: 3.5rem;
+    width: 65%;
+    border-radius: 10px;
+    margin: 10px auto 10px auto;
+    box-shadow:1px 1px 5px rgb(160, 160, 172);
+    /* text-align: center; */
+
+    
+}
+
+.imgbox{
+    position: relative;
+    width:45px;
+    float: left;
+    margin-left: -25px;
+    margin-top: 5px;
+    
+}
+
+.heading{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: .8rem;
+    padding-top: 8px;
+    font-family: 'Ultra', serif;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    color: #4b4b4b;
+ 
+}
+
+.para{
+    position: relative;
+    margin-left: 40px;
+    font-size: 0.7rem;
+    margin-top:-8px;
+    font-family: 'Open Sans', sans-serif;
+    color: #a6a8ad ;
+    letter-spacing: 0.6px;
+}
+
+.btn{
+    width: 28px;
+    height: 28px;
+    position: relative;
+    float: right;
+    border-radius: 50%;
+    border-color: #fff;
+    border-style: none;
+    margin-top: -44px;
+    margin-right: -10px;
+    box-shadow:1px 1px 5px rgb(45, 45, 49);
+    color: #fe346e;
+    font-size: .9rem;
+    background-color: #ffffff;
+    font-family: 'Ultra', serif;
+   
+}
+
